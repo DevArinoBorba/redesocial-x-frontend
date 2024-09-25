@@ -1,8 +1,8 @@
-#Projeto de Criaçao de uma rede social baseada no X 
+ # Projeto de Criaçao de uma rede social baseada no X 
 
-##Tecnologias usadas no desenvolvimento !
+ ## Tecnologias usadas no desenvolvimento !
 
-##Frontend
+ ## Frontend
 
 - NextJS / React + Typescript
 - TailwindCSS 
@@ -10,7 +10,7 @@
 - Skeleton + Suspense
 - Vercel / DigitalOcean
 
-##BackEnd 
+ ## BackEnd 
 
 - Node + Typescript
 - Bando de dados: PostgreSQL
